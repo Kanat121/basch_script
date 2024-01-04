@@ -1,2 +1,2 @@
 # basch_script
-List installed software with the installed size?
+Show List installed software with the installed size?
